@@ -56,7 +56,13 @@ body{
                 .challenge{
                     font-size: 14px;
                     line-height: 0.5;
+                    @media (min-width: 769px) and (max-width: 1199px){
+                        line-height: 1;
+                    }
                 }
+            }
+            @media (min-width: 769px) and (max-width: 1199px){
+                padding: 20px 5px;
             }
         }
         .overall-rank{

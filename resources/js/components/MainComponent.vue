@@ -76,7 +76,7 @@
                     </p>
                 </div>
             </div>
-            <div class="col-md-8 d-sm-none d-md-block">
+            <div class="col-md-8 d-none d-md-block">
                 <div class="card main">
                     <div class="card-header">SHIFT CHALLENGE</div>
                     <div class="card-banner">

@@ -10063,6 +10063,16 @@ body .error {
   font-size: 14px;
   line-height: 0.5;
 }
+@media (min-width: 769px) and (max-width: 1199px) {
+  .leader .card .auth .auth-info .challenge {
+    line-height: 1;
+  }
+}
+@media (min-width: 769px) and (max-width: 1199px) {
+  .leader .card .auth {
+    padding: 20px 5px;
+  }
+}
 .leader .card .overall-rank {
   display: flex;
   padding: 20px 40px;
